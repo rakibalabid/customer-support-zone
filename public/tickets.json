@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still receive an 'Invalid Credentials' error message.",
+    "customer": "Rakib",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed",
+    "description": "Customer attempted to pay using Visa ending 1234 but the payment keeps failing. The bank confirms funds are available but the gateway rejects it.",
+    "customer": "Rahim",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their January invoice from the billing section. The download button is unresponsive on both Chrome and Safari browsers.",
+    "customer": "Karim",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Billing Address",
+    "description": "Customer's billing address shows a different city. They updated it in profile settings, but the changes are not reflecting on the checkout page.",
+    "customer": "Sadia",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1005,
+    "title": "App Crash on Launch",
+    "description": "The mobile app crashes immediately after the splash screen on Android 13. The user has tried clearing cache and reinstalling without success.",
+    "customer": "Nayeem",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Not Processed",
+    "description": "A refund for Order #8829 was approved two weeks ago but the customer has not received the amount yet. Payment was made via Rocket.",
+    "customer": "Mitu",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Authentication Issue",
+    "description": "User is not receiving the 6-digit 2FA code on their registered mobile number. They are stuck at the security verification step.",
+    "customer": "Shuvo",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1008,
+    "title": "Unable to Update Profile Picture",
+    "description": "The system throws a 'File too large' error even when the user uploads a 500KB JPG image. The limit should be 2MB as per documentation.",
+    "customer": "Ruma",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Auto-Renewal",
+    "description": "Customer was charged for an annual plan renewal despite turning off the auto-renew toggle last month. Requesting an immediate reversal.",
+    "customer": "Tariq",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1010,
+    "title": "Missing Order Email",
+    "description": "Customer placed an order 3 hours ago but hasn't received a confirmation email. They've checked the spam folder and verified the email address.",
+    "customer": "Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1011,
+    "title": "Slow Website Performance",
+    "description": "The dashboard is taking more than 10 seconds to load for users in the Chittagong region. Other parts of the site seem to be working fine.",
+    "customer": "Farzana",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1012,
+    "title": "Duplicate Payment Charged",
+    "description": "The customer was charged twice for a single transaction due to a network glitch. Both transactions show up as 'Success' in their bank statement.",
+    "customer": "Imran",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1013,
+    "title": "Dark Mode Feature Request",
+    "description": "Several users have requested a native dark mode for the dashboard to reduce eye strain during night-time usage. To be added to the backlog.",
+    "customer": "Nabila",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1014,
+    "title": "Account Locked Permanently",
+    "description": "User's account has been locked after three incorrect login attempts. The 'Unlock via Email' link is sending an expired token.",
+    "customer": "Hasan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 1015,
+    "title": "Invoice PDF Format Issue",
+    "description": "The generated invoice PDF is missing the company logo and the tax breakdown table is appearing garbled. This needs urgent fixing for auditing.",
+    "customer": "Maya",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04"
+  }
+]
