@@ -19,7 +19,7 @@ const Navbar = () => {
                     <li><a href="">Download</a></li>
                     <li><a href="">Contact</a></li>
                 </ul>
-                <button className='btn btn-primary ml-4'>+ New Ticket</button>
+                <button className='ml-4 px-6 py-2 bg-gradient-to-r from-[#6366F1] to-[#A855F7] text-white font-bold rounded-lg hover:from-[#4F46E5] hover:to-[#9333EA] transition-all shadow-lg'>+ New Ticket</button>
             </div>
             
         </div>
